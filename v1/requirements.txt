@@ -1,0 +1,10 @@
+transformers
+nltk
+torch
+sentencepiece
+spacy
+sacremoses
+rouge
+matplotlib
+seaborn
+bert_score
