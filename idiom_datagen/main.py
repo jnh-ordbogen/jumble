@@ -17,14 +17,6 @@ template = """The Danish idiom/phrase/saying "{da}" has the semantically equival
   ]
 }}"""
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-
 def response_to_lists(response):
     try:
         json_response = json.loads(response)
